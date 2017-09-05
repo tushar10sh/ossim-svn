@@ -4,7 +4,7 @@ copy the local.properties.template to local.properties and modify for your syste
 
 now type
 ant <return>
-should have a successful bild
+should have a successful build
 
 
 
